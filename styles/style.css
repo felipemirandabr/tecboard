@@ -54,19 +54,17 @@ p {
     line-height: 36pt;
 }
 
-button {
+a.button {
     background-color: var(--cor-destaque);
-    font-family: var(--fonte);
-    font-size: 24pt;
     font-weight: bold;
     color: var(--texto-dark);
-    border: none;
+    text-decoration: none;
     padding: 24px 48px;
     border-radius: 36px;
     margin: 40px 0;
 }
 
-button:hover {
+a.button:hover {
     background-color: var(--cor-destaque-hover);
 }
 
