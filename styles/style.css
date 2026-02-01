@@ -54,10 +54,6 @@ p {
     line-height: 36pt;
 }
 
-a {
-    
-}
-
 #button {
     background-color: var(--cor-destaque);
     color: var(--texto-dark);
