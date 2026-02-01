@@ -55,20 +55,20 @@ p {
 }
 
 a {
+    
+}
+
+#button {
+    background-color: var(--cor-destaque);
     color: var(--texto-dark);
     text-decoration: none;
     font-weight: bold;
-}
-
-a.button {
-    background-color: var(--cor-destaque);
-    
     padding: 24px 48px;
     border-radius: 36px;
     margin: 40px 0;
 }
 
-a.button:hover {
+#button:hover {
     background-color: var(--cor-destaque-hover);
 }
 
