@@ -54,11 +54,15 @@ p {
     line-height: 36pt;
 }
 
-a.button {
-    background-color: var(--cor-destaque);
-    font-weight: bold;
+a {
     color: var(--texto-dark);
     text-decoration: none;
+    font-weight: bold;
+}
+
+a.button {
+    background-color: var(--cor-destaque);
+    
     padding: 24px 48px;
     border-radius: 36px;
     margin: 40px 0;

@@ -12,11 +12,11 @@ strong {
     color: var(--cor-destaque)
 }
 
-button {
+a.button {
     background-color: var(--cor-destaque);
     color: var(--texto-dark);
 }
 
-button:hover {
+a.button:hover {
     background-color: var(--cor-destaque-hover);
 }
